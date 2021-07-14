@@ -1,9 +1,9 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Pdf from '../assests/junresume.pdf'
+import Resume from '../assests/junresume.pdf'
 
 let onLinkedInClick = () => {
-    window.location.href = "www.linkedin.com/in/kevin-jun-2a210461"
+    window.location.href = "https://www.linkedin.com/in/kevin-jun-2a210461/"
 };
 
 let onGitHubLinkClick = () => {
@@ -15,7 +15,7 @@ let onEmailClick = () => {
 };
 
 let onResumeClick = () => {
-    window.open(Pdf);
+    window.open(Resume);
 }
 
 function Contact() {
