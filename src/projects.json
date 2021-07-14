@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "title": "GradRight",
+        "github": "https://github.com/kjun290/gradright",
+        "url": "https://gradright.herokuapp.com/",
+        "image": "src/assets/GradRight.gif"
+    },
+    {
+        "id": 2,
+        "title": "Safe Bathroom",
+        "github": "https://github.com/Zane-Gilfillan/SafeSpace",
+        "url": "https://zane-gilfillan.github.io/Bathroom-Finder/", 
+        "image": "src/assets/safebathroom.png"
+    },
+    {
+        "id": 3,
+        "title": "Budget Tracker",
+        "github": "https://github.com/kjun290/Budget-tracker",
+        "url": "https://budget-tracker-app-hw18.herokuapp.com/",
+        "image": "src/assets/budget/gif"
+    },
+    {
+        "id": 4,
+        "title": "Work Day Scheduler",
+        "github": "https://github.com/kjun290/Work-Day-Scheduler",
+        "url": "https://kjun290.github.io/Work-Day-Scheduler/",
+        "image": "src/assets/workdayscheduler.png"
+    },
+    {
+        "id": 5,
+        "title": "User Directory",
+        "github": "https://github.com/kjun290/User-Directory",
+        "url": "https://kjun290.github.io/User-Directory/",
+        "image": "src/assets/userDirectory.png"
+    },
+    {
+        "id": 6,
+        "title": "Fitness Tracker",
+        "github": "https://github.com/kjun290/fitness-tracker",
+        "url": "https://fit-tracker-app-hw17.herokuapp.com/",
+        "image": "src/assets/fitnesstracker.gif"
+    }
+]
